@@ -1,0 +1,9 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--navy-blue);
+}
+
+:root {
+  --navy-blue: #2E2F42;
+  --slate: #434455;
+}
