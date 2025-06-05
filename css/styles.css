@@ -96,3 +96,53 @@ address {
 }
 
 /* #endregion = Hero */
+
+/* #region = Benefits */
+
+.title-tertiary {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+}
+
+.paragraph-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--slate);
+}
+
+/* #endregion = Benefits */
+
+/* #region = Our Team */
+
+.our-team-container {
+  background-color: var(--cloud);
+}
+
+.title-secondary {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+}
+
+/* #endregion = Our Team */
+
+/* #region = Footer */
+
+.page-footer {
+  background-color: var(--navy-blue);
+}
+
+.page-footer .footer-logo-word {
+  color: var(--cloud);
+}
+
+.page-footer .paragraph-text {
+  color: var(--cloud);
+}
+
+/* #endregion = Footer */
